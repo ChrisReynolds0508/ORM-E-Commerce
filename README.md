@@ -11,7 +11,7 @@ The user must install express, pg, and sequelize in order to use this backend ap
 In order to run the application the user will need to log into postgres, create and seed the database and run the command 'npm start' in an integrated terminal. 
 
 ## Video Demonstration Link 
-https://screenrec.com/share/93thY80m1D 
+https://screenrec.com/share/IAGDpj3VSL
 
 ## Author
 Chris Reynolds 
